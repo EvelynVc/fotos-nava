@@ -1,2 +1,2 @@
-# fotos-nava
-ejemplo de imagenes
+# FotoFamilia
+fotos amigos cbtis y un servidor
